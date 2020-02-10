@@ -1,4 +1,4 @@
-<H1> Exploratory Data Analysis Project (Coursera)</H1>
+#Exploratory Data Analysis Project (Coursera)</H1>
 
 Fine particulate matter (PM2.5) is an ambient air pollutant for which there is strong evidence that it is harmful to human 
 health. In the United States, the Environmental Protection Agency (EPA) is tasked with setting national ambient air quality 
@@ -15,12 +15,14 @@ Data for Peer Assessment [29Mb]
 <link>https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
 
 
-<H3>Questions</H3>
+###Questions
 You must address the following questions and tasks in your exploratory analysis. For each question/task you will need to make 
 a single plot. Unless specified, you can use any plotting system in R to make your plot.
 
 Q1. Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot 
 showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
+
+
 
 Q2. Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (\color{red}{\verb|fips == "24510"|}fips=="24510") 
 from 1999 to 2008? Use the base plotting system to make a plot answering this question.
