@@ -43,8 +43,14 @@ emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answe
 
 Q4. Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
 
+![Plot 4](https://github.com/smch0000/Exploratory-Data-Analysis-Project/blob/master/plot4.png)
+
 Q5. How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
+
+![Plot 5](https://github.com/smch0000/Exploratory-Data-Analysis-Project/blob/master/plot5.png)
 
 Q6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles 
 County, California(fips == "06037"). Which city has seen greater changes over time in motor 
 vehicle emissions?
+
+![Plot 6](https://github.com/smch0000/Exploratory-Data-Analysis-Project/blob/master/plot6.png)
